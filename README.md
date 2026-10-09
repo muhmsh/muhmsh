@@ -1,4 +1,3 @@
-MUH_MSH — GitHub Profile README
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=bb9af7&fontSize=54&height=100&section=header&text=Hi%2C%20I%27m%20MUHMSH%20%F0%9F%91%8B" alt="Hi, I'm MUHMSH" /> </p>
 
